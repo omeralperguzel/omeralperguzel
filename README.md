@@ -1,6 +1,6 @@
-### Hi there <a href="https://twitter.com/bratcelik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### <img src="https://cdn.discordapp.com/emojis/803187071941869608.webp?size=96&quality=lossless" width="5%"> Hi there! <a href="https://linkedin.com/in/omeralperguzel"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<h2 align="left">I'm Ömer Alper Güzel</h1>
+<h2 align="left"><img src="https://cdn.discordapp.com/emojis/979787877623943238.gif?size=96&quality=lossless" width="5%"> I'm Ömer Alper</h1>
 <h4 align="left">A student who is passionate to retro things and popular tech and wants to improve himself for programming better.</h3>
 
 <!--**omeralperguzel/omeralperguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
