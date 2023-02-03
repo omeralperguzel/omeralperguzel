@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **Java, Python**
-- 💬 Ask me about **Java and a very small bit of Unity and UE4**
+- 💬 Ask me about **Java, Figma (irrelevant but why not) and a very small bit of Unity and UE4**
 - 📫 How to reach me: **alpherustr07@hotmail.com** , **https://linkedin.com/in/omeralperguzel**
 
 
