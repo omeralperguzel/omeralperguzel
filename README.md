@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Python, C**
 - 💬 Ask me about **Java, Figma (irrelevant but why not) and a very small bit of Unity and UE4**
-- 📫 How to reach me: **alpherustr07@hotmail.com** , **https://linkedin.com/in/omeralperguzel**
-- 🔭 You can also visit my Github Pages webpage: **https://omeralperguzel.github.io**
+- 📫 How to reach me: Use **[My E-Mail](alpherustr07@hotmail.com)** or **[My LinkedIn](https://linkedin.com/in/omeralperguzel)**
+- 🔭 You can also visit my Github Pages webpage by  **[clicking here](https://omeralperguzel.github.io/#home)**
 
 
 
