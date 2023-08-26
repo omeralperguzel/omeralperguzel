@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🌱 I’m currently learning **Java, Python, C**
 - 💬 Ask me about **Java, Figma (irrelevant but why not) and a very small bit of Unity and UE4**
 - 📫 How to reach me: Use **[My E-Mail](alpherustr07@hotmail.com)** or **[My LinkedIn](https://linkedin.com/in/omeralperguzel)**
