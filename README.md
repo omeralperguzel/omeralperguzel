@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Java, C#, C, React and a little bit of Dart/Flutter and Python**
-- 💬 Ask me about **Java, Figma (irrelevant but why not), a small bit of Unity, and very small bit of UE4**
+- 🌱 I’m currently learning **Java, C#, C, React, and a little bit of Dart/Flutter and Python**
+- 💬 Ask me about **Java, Figma (irrelevant but why not), a small bit of Unity, and a very small bit of Godot and UE4**
 - 📫 How to reach me: Use **[My E-Mail](alpherustr07@hotmail.com)** or **[My LinkedIn](https://linkedin.com/in/omeralperguzel)**
 - 🔭 You can also visit my GitHub Pages **webpage** by  **[clicking here](https://omeralperguzel.github.io/#home)**
 
